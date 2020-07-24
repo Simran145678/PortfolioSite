@@ -1,0 +1,12 @@
+{
+  
+  "version": "1.0.0",
+  "description": "Portfolio site for assignment 2",
+  "author": "Harsimran Kaur",
+  "main": "index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  }
+}
